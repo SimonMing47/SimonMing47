@@ -6,6 +6,8 @@ I build infrastructure-grade software: distributed systems, agent runtimes, auto
 
 Currently focused on AI agent systems, cloud-native runtime engineering, and market/data infrastructure.
 
+Blog: [simonming47.github.io](https://simonming47.github.io/)
+
 <p>
   <img src="./assets/medal-systems.svg" alt="Systems medal" height="42">
   <img src="./assets/medal-agents.svg" alt="Agent Runtime medal" height="42">
@@ -36,4 +38,5 @@ Distributed storage, container runtimes, Linux, Kubernetes, Rust, Go, TypeScript
 ## Contact
 
 GitHub: [@SimonMing47](https://github.com/SimonMing47)  
+Blog: [simonming47.github.io](https://simonming47.github.io/)  
 Email: [mingxing.tc@gmail.com](mailto:mingxing.tc@gmail.com)
