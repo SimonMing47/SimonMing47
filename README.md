@@ -1,63 +1,30 @@
-# Hi, I'm Ming
+# Ming
 
-I'm `SimonMing47`, a builder who likes turning rough ideas into running systems.
+I build infrastructure-grade software: distributed systems, agent runtimes, automation tools, and data products.
 
-I spend most of my time around infrastructure, distributed systems, automation, AI tooling, and practical developer products. This profile is where I keep experiments, long-running projects, and notes from things I am building.
+Currently focused on AI agent systems, cloud-native runtime engineering, and market/data infrastructure.
 
-GitHub: [@SimonMing47](https://github.com/SimonMing47)  
-Email: [mingxing.tc@gmail.com](mailto:mingxing.tc@gmail.com)
+## Selected Work
 
----
-
-## What I Work On
-
-- Distributed systems and storage engines
-- Cloud native infrastructure and container runtimes
-- AI agents, automation workflows, and developer tools
-- Trading, data systems, and product experiments
-
----
-
-## Featured Projects
-
-| Project | What it is | Tech |
-| --- | --- | --- |
-| [MineKV](https://github.com/SimonMing47/MineKV) | A distributed KV database experiment | Rust, storage, distributed systems |
-| [agent-world](https://github.com/SimonMing47/agent-world) | Agent-oriented product and runtime exploration | TypeScript, AI, desktop app |
-| [Helix](https://github.com/SimonMing47/Helix) | Engineering and systems project workspace | Systems, tooling |
-| [openticker](https://github.com/SimonMing47/openticker) | Market/data product exploration | Data, trading, automation |
-| [codemint-blog](https://github.com/SimonMing47/codemint-blog) | Writing and publishing workspace | Blog, docs, product thinking |
-
----
-
-## Tech Stack
-
-| Area | Tools |
+| Project | Notes |
 | --- | --- |
-| Systems | Rust, Go, Linux, Kubernetes, Docker |
-| Product engineering | TypeScript, React, Python |
-| Infrastructure | containerd, runc, etcd, cloud native tooling |
-| Interests | distributed storage, automation, AI agents, trading systems |
+| [MineKV](https://github.com/SimonMing47/MineKV) | Distributed KV database experiment. |
+| [agent-world](https://github.com/SimonMing47/agent-world) | Agent product/runtime exploration. |
+| [openticker](https://github.com/SimonMing47/openticker) | Market data and trading infrastructure experiments. |
+| [Helix](https://github.com/SimonMing47/Helix) | Systems and tooling workspace. |
+| [codemint-blog](https://github.com/SimonMing47/codemint-blog) | Notes on engineering, products, and systems. |
 
----
+## Areas
 
-## GitHub Snapshot
+Distributed storage, container runtimes, Linux, Kubernetes, Rust, Go, TypeScript, Python, AI agents, trading systems.
 
-Public activity, repositories, pinned projects, and contribution history are available directly on [my GitHub profile](https://github.com/SimonMing47).
+## Principles
 
----
-
-## Current Focus
-
-- Building practical AI-agent workflows that survive real daily use
-- Improving engineering systems from "works once" to "works every day"
-- Writing cleaner tools for infrastructure, data, and automation
-
----
+- Build small systems that can survive real use.
+- Prefer clear interfaces over clever machinery.
+- Keep shipping, keep measuring, keep simplifying.
 
 ## Contact
 
-- GitHub: [@SimonMing47](https://github.com/SimonMing47)
-- Email: [mingxing.tc@gmail.com](mailto:mingxing.tc@gmail.com)
-
-Thanks for visiting. Always building.
+GitHub: [@SimonMing47](https://github.com/SimonMing47)  
+Email: [mingxing.tc@gmail.com](mailto:mingxing.tc@gmail.com)
