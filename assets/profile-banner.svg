@@ -1,0 +1,31 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ming GitHub profile banner</title>
+  <desc id="desc">A restrained technical banner for distributed systems, agent runtimes, automation tools, and data products.</desc>
+  <rect width="1200" height="360" rx="18" fill="#0D1117"/>
+  <path d="M0 252C118 206 193 236 300 198C407 160 455 75 576 94C697 113 724 221 846 213C968 205 1048 99 1200 132V360H0V252Z" fill="#13233B"/>
+  <path d="M0 293C133 258 228 286 340 249C452 212 501 144 617 160C733 176 764 262 890 253C1016 244 1086 174 1200 198V360H0V293Z" fill="#1E3A35"/>
+  <g opacity="0.34">
+    <path d="M88 88H300M88 132H238M88 176H340" stroke="#7DD3FC" stroke-width="2"/>
+    <path d="M880 88H1094M936 132H1094M820 176H1094" stroke="#A7F3D0" stroke-width="2"/>
+    <circle cx="650" cy="80" r="4" fill="#FDE68A"/>
+    <circle cx="696" cy="120" r="4" fill="#7DD3FC"/>
+    <circle cx="742" cy="82" r="4" fill="#A7F3D0"/>
+    <circle cx="790" cy="126" r="4" fill="#FCA5A5"/>
+    <path d="M650 80L696 120L742 82L790 126" stroke="#94A3B8" stroke-width="2"/>
+  </g>
+  <text x="80" y="138" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="54" font-weight="700">Ming</text>
+  <text x="80" y="188" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24">Infrastructure-grade software</text>
+  <text x="80" y="232" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19">distributed systems / agent runtimes / automation / data products</text>
+  <g transform="translate(80 272)">
+    <rect width="168" height="40" rx="20" fill="#F8FAFC" fill-opacity="0.08" stroke="#334155"/>
+    <text x="22" y="26" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">Rust + Go</text>
+  </g>
+  <g transform="translate(268 272)">
+    <rect width="178" height="40" rx="20" fill="#F8FAFC" fill-opacity="0.08" stroke="#334155"/>
+    <text x="22" y="26" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">Cloud Native</text>
+  </g>
+  <g transform="translate(466 272)">
+    <rect width="184" height="40" rx="20" fill="#F8FAFC" fill-opacity="0.08" stroke="#334155"/>
+    <text x="22" y="26" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">AI Agents</text>
+  </g>
+</svg>

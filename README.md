@@ -1,8 +1,17 @@
 # Ming
 
+![Ming profile banner](./assets/profile-banner.svg)
+
 I build infrastructure-grade software: distributed systems, agent runtimes, automation tools, and data products.
 
 Currently focused on AI agent systems, cloud-native runtime engineering, and market/data infrastructure.
+
+<p>
+  <img src="./assets/medal-systems.svg" alt="Systems medal" height="42">
+  <img src="./assets/medal-agents.svg" alt="Agent Runtime medal" height="42">
+  <img src="./assets/medal-cloud.svg" alt="Cloud Native medal" height="42">
+  <img src="./assets/medal-data.svg" alt="Data Infra medal" height="42">
+</p>
 
 ## Selected Work
 

@@ -1,0 +1,6 @@
+<svg width="174" height="42" viewBox="0 0 174 42" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Agent runtime medal">
+  <rect width="174" height="42" rx="21" fill="#0D1117"/>
+  <circle cx="25" cy="21" r="12" fill="#7DD3FC"/>
+  <path d="M17 22H33M25 14V30M20 17L30 27M30 17L20 27" stroke="#111827" stroke-width="2"/>
+  <text x="48" y="27" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700">Agent Runtime</text>
+</svg>
